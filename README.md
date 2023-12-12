@@ -21,6 +21,6 @@ The python libraries I used are:-
 * Kaggle - https://www.kaggle.com/kartikparashar 
 * Linkedin - www.linkedin.com/in/kartik-parashar-90bb1a1a4
 * HackerRank- https://www.hackerrank.com/Blu_Dragon
-* This Repo- https://github.com/kartikparashar786/Attendance-by-Facial-Recognition
+* This Repo- https://github.com/80396-B2/Attendance-by-Facial-Recognition
 
 Made by-Kartik Parashar  
